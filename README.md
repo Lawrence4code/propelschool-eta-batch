@@ -4,7 +4,7 @@ This is practice repository for Propel ETA batch started on 4th February, 2019.
 
 Please feel free to pull this repo and make change and add more information about ETA batch.
 
-### Name of the batch members ()
+### Name of the batch members (alphabetically)
 
 1. Edit and write your name here
 2. Edit and write your name here
