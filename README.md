@@ -15,4 +15,3 @@ Please feel free to pull this repo and make change and add more information abou
 7. Edit and write your name here
 8. Edit and write your name here
 9. Lawrence
-10. Edit and write your name here
